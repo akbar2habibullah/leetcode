@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions to various LeetCode problems.
+This repository contains "my" solutions to various LeetCode problems.
 
 ## Disclaimer
 
