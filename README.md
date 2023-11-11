@@ -2,7 +2,7 @@
 
 This repository contains "my" solutions to various LeetCode problems.
 
-![LeetCode Stats](https://gist.github.com/akbar2habibullah/a2447f658ebd06065f205cb0e6447cd6.svg)
+![LeetCode Stats](https://gist.github.com/akbar2habibullah/a2447f658ebd06065f205cb0e6447cd6)
 
 ## Disclaimer
 
